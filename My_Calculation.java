@@ -26,3 +26,4 @@ public class My_Calculation extends Calculation {
       demo.multiplication(a, b);
    }
 }
+
