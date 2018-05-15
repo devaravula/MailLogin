@@ -1,4 +1,4 @@
-class Calculation {
+class Calculation { 
    int z;
 	
    public void addition(int x, int y) {
